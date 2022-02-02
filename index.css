@@ -1,0 +1,14 @@
+#navbar{
+  float:top;
+}
+p{
+  color:  black;
+}
+
+body{
+  background: white;
+}
+
+#active{
+  background: green
+}
